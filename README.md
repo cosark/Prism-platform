@@ -299,6 +299,12 @@ When you run only `uvicorn` from source, FastAPI serves `/api/*`, `/ws/*`, and `
 
 ---
 
+## ☁️ One-Click Deploy
+
+[![Deploy on RepoCloud](https://d16t0pc4846x52.cloudfront.net/deploylobe.svg)](https://repocloud.io/details/Prism/)
+
+---
+
 ## Configuration
 
 PRISM starts with no configuration: the Docker command above works as it is.
